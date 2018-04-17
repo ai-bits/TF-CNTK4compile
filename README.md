@@ -1,5 +1,4 @@
-## Google TensorFlow and MS CNTK on One Machine  
-### Satisfying CNTK Prerequisite and Location Requirements (2017-01)
+### Google TensorFlow and MS CNTK on One Machine, as of 2017-01 Satisfying CNTK Prerequisite and Location Requirements
 After much reading and experimentation I'm starting to collect my AI-bits here.
 
 I got TensorFlow and CNTK running together on Windows 10 and Ubuntu 16.04, physical machines with GPU support and VMware virtual machines using Anaconda 4.2.  
