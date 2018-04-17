@@ -1,4 +1,3 @@
-TensorFlow and CNTK install on one machine, satisfying CNTK prerequisite and location requirements as of beginning of 2017
 # 20170124 Google TensorFlow and MS CNTK on One Machine
 After much reading and experimentation I'm starting to collect my AI-bits here.
 
